@@ -1,0 +1,25 @@
+{
+  "name": "martin-js-builder",
+  "version": "0.1.0",
+  "description": "jj",
+  "main": "index.js",
+  "scripts": {
+    "test": "l"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tmartinx6/martin-js-builder.git"
+  },
+  "keywords": [
+    "footer"
+  ],
+  "author": "martinx6 <martinhernandezwrld42@gmail.com> (https://www.npmjs.com/settings/martinx6/packages)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Tmartinx6/martin-js-builder/issues"
+  },
+  "homepage": "https://github.com/Tmartinx6/martin-js-builder#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
